@@ -6,7 +6,7 @@ Projeto acadêmico de Análise de Dados desenvolvido pela FAE em parceria com o 
 
 ## 📊 Metodologia e Escopo
 
-A análise mapeia 1.838.142 empresas ativas [página: 3] distribuídas por todos os 399 municípios do Paraná [página: 3, 8], projetando cenários até o ano de 2025. O projeto está dividido em quatro fases fundamentais do ecossistema: O Nascimento, A Sobrevivência, A Estabilidade e A Oportunidade [página: 2, 4, 6, 8].
+A análise mapeia 1.838.142 empresas ativas [página: 3] distribuídas por todos os 399 municípios do Paraná [páginas: 3, 8], projetando cenários até o ano de 2025. O projeto está dividido em quatro fases fundamentais do ecossistema: O Nascimento, A Sobrevivência, A Estabilidade e A Oportunidade [páginas: 2, 4, 6, 8].
 
 * **Fontes de Dados:** Base primária fornecida pelo SEBRAE.
 * **Tratamento Inicial:** Limpeza, padronização e higienização estrutural realizadas no Microsoft Excel.
