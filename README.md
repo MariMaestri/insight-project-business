@@ -1,6 +1,6 @@
 ## Dashboard Looker Studio: O Ciclo de Vida Empresarial no Paraná
 
-Projeto académico de Análise de Dados desenvolvido pela FAE em parceria com o SEBRAE, focado na Análise Estratégica do Ecossistema Empresarial Paranaense. Através da inteligência de dados, o *dashboard* avalia o ciclo de vida empresarial para gerar inteligência de mercado e guiar decisões de negócios a nível estadual.
+Projeto acadêmico de Análise de Dados desenvolvido pela FAE em parceria com o SEBRAE, focado na Análise Estratégica do Ecossistema Empresarial Paranaense. Através da inteligência de dados, o *dashboard* avalia o ciclo de vida empresarial para gerar inteligência de mercado e guiar decisões de negócios a nível estadual.
 
 🔗 **[Clique aqui para acessar ao dashboard interativo no Looker Studio]([https://www.google.com/search?q=%23](https://datastudio.google.com/reporting/afbe08f4-6960-420f-b430-67a903edced7))**
 
