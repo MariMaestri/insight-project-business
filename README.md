@@ -32,7 +32,7 @@ Para viabilizar a análise sem recorrer a bancos de dados relacionais externos, 
 * **Governança e Lógica de Filtros:** A precisão das visualizações foi assegurada por um rigoroso sistema de regras. Destaca-se a implementação do "Filtro Empresas Inaptas" (construído com 5 cláusulas lógicas combinadas) e parametrizações de âmbito (restrição regional `UF = PR` e segmentação por porte: MEI, ME, EPP, GOV, SFL).
 * **Tratamento Cartográfico e de Outliers:** Aplicação de regras de exclusão/inclusão para municípios que distorciam a escala da base de dados (ex: isolamento ou exclusão de Mirador, Curitiba, Araucária e Indianópolis para visualizações comparativas específicas).
 
-## 👥 Equipa FAE
+## 👥 Equipe FAE
 
 Este projeto foi desenvolvido em colaboração por:
 
